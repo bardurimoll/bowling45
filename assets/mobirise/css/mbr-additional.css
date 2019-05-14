@@ -924,6 +924,9 @@ blockquote {
 #form1-e .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#form1-e .form-control-label {
+  color: undefined;
+}
 #form1-e .mbr-section-title {
   color: #cc3300;
 }
@@ -1018,6 +1021,9 @@ blockquote {
 }
 #form1-e .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#form1-e .form-control-label {
+  color: undefined;
 }
 #form1-e .mbr-section-title {
   color: #cc3300;
@@ -1217,6 +1223,9 @@ blockquote {
 #form1-e .mbr-section-subtitle {
   text-transform: uppercase;
 }
+#form1-e .form-control-label {
+  color: undefined;
+}
 #form1-e .mbr-section-title {
   color: #cc3300;
 }
@@ -1311,6 +1320,9 @@ blockquote {
 }
 #form1-e .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#form1-e .form-control-label {
+  color: undefined;
 }
 #form1-e .mbr-section-title {
   color: #cc3300;
@@ -1539,6 +1551,9 @@ blockquote {
 }
 #form1-e .mbr-section-subtitle {
   text-transform: uppercase;
+}
+#form1-e .form-control-label {
+  color: undefined;
 }
 #form1-e .mbr-section-title {
   color: #cc3300;

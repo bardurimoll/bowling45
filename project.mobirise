@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "vallobowling",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -658,7 +658,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -697,7 +697,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-5",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1 mbr-after-navbar\" data-rv-view=\"43\" style=\"background-color: rgb(0, 0, 0); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"https://mobirise.com\"><img src=\"@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n    \t\t\t\t<div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"92\">ADRESSE</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"93\">Carl XV gate 15 \n<br>3150 Tønsberg<br><br></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"94\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"95\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"96\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"97\"></p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"98\">KONTAKT</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"99\">Epost:<br><a href=\"mailto:post@vallobowling.no\">post@vallobowling.no </a>\n<br>Telefon: <br><a href=\"tel:91346911\">913 46 9 11</a></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"100\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"101\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"102\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"103\"></p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"104\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"105\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"106\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"107\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"108\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"109\"></p>\n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"110\"></p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"111\"></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"112\"></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.instagram.com/explore/locations/558578284530557/vall-bowling/\" target=\"_blank\" code-editable-id=\"113\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"114\"></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.facebook.com/vallobowlingsenter/?rf=246571988775062\" target=\"_blank\" code-editable-id=\"115\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"116\">Copyright (c) 2019 Vallø Bowling AS</p>\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding footer1 mbr-after-navbar\" data-rv-view=\"43\" style=\"background-color: rgb(0, 0, 0); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container-fluid\">\n    \t<div class=\"row\">\n    \t\t<div class=\"col-xs-12 col-lg-10 col-lg-offset-1\">\n    \t\t\t<div class=\"col-xs-12 col-lg-2 text-xs-center\">\n    \t\t\t\t<div><a href=\"https://mobirise.com\"><img src=\"@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png\" alt=\"Mobirise\"></a></div>\n    \t\t\t</div>\n    \t\t\t<div class=\"footer-list col-xs-12 col-lg-7\">\n    \t\t\t\t<div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"92\">ADRESSE</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"93\">Carl XV gate 15 \n<br>3150 Tønsberg<br><br></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"94\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"95\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"96\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"97\"></p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"98\">KONTAKT</p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"99\">Epost:<br><a href=\"mailto:post@vallobowling.no\">post@vallobowling.no </a>\n<br>Telefon: <br><a href=\"tel:91346911\">913 46 9 11</a></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"100\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"101\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"102\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"103\"></p>\n                    </div>\n                    <div class=\"col-xs-12 col-md-4 text-xs-center text-md-left\">\n                        <p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"104\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"105\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"106\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"107\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"108\"></p>\n                        <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"109\"></p>\n                    </div>\n    \t\t\t</div>\n    \t\t\t<div class=\"col-xs-12 col-lg-3 text-xs-center text-lg-left\">\n    \t\t\t\t<p class=\"mbr-section-subtitle display-3 mbr-editable-content\" code-editable-id=\"110\"></p>\n    \t\t\t\t<div class=\"mbr-section-btn\"><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"111\"></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"112\"></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.instagram.com/explore/locations/558578284530557/vall-bowling/\" target=\"_blank\" code-editable-id=\"113\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"114\"></a><a class=\"btn btn-icon mbr-editable-button\" href=\"https://www.facebook.com/vallobowlingsenter/?rf=246571988775062\" target=\"_blank\" code-editable-id=\"115\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a></div>\n    \t\t\t</div>\n    \t\t</div>\n    \t</div>\n    </div>\n    <div class=\"container margin-top-40\">\n        <p class=\"text-xs-center mbr-section-text lead mbr-editable-content\" code-editable-id=\"116\">Copyright (c) 2019 Vallø Bowling AS</p>\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-subtitle, .mbr-section-text {\n  color: #fff;\n}\n.mbr-section-subtitle {\n  margin-bottom: 20px;\n  margin-top: 0;\n}\n",
@@ -1013,7 +1013,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1363,7 +1363,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1847,7 +1847,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2197,7 +2197,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2547,7 +2547,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -2934,7 +2934,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/biljard-p20-4-600x38413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/biljard-p20-4-600x38415.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/biljard-p20-4-600x384-600x384.jpg",
                 "alt": "",
                 "title": "",
@@ -3189,7 +3189,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -3371,8 +3371,8 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "text1": "<p>Jarlsberg Bowlingklubb ble stiftet i 1986 og har idag ca 40 aktive medlemmer i alderen 14 og til pensjonistalderen.\n</p><p>Vi har idag 4 ligalag i 3. divisjon og 2 veteranlag (50+) i hhv 3 og 4 divisjon.\n</p><p>\n</p><p><br></p><p>JBK har treninger hver onsdag fra kl. 1900 til 2100. Da er vår trener Trond Syvertsen med å hjelper til med tips og triks. Ellers i uka er det mange medlemmer som har litt egentrening til gunstige priser.</p>",
-          "text2": "<p>Vallø Bowling har kuleborer som kommer ned ved behov og selger kuler og annet bowlingutstyr. Han tilbyr også rimelige startpakker som inneholder 1 kule, 1 par sko og bag.</p><p><br></p><p>Ønsker du å ta en tur for å prøve, er du hjertelig velkommen til oss på treningsdagene! Send gjerne en epost i forkant.</p>",
+          "text1": "<p>Jarlsberg Bowlingklubb ble stiftet i 1986 og har idag ca 40 aktive medlemmer i alderen 14 og til pensjonistalderen.\n</p><p>Vi har idag 4 ligalag i 3. divisjon og 2 veteranlag (50+) i hhv 3 og 4 divisjon.\n</p><p>\n</p><p><br></p><p>JBK har treninger hver onsdag fra kl. 1900 til 2100. Da er vår trener Trond Syvertsen med og hjelper til med tips og triks. Ellers i uka er det mange medlemmer som har egentrening til gunstige priser.</p>",
+          "text2": "<p>Vallø Bowling har kuleborer som kommer ned ved behov og selger kuler og annet bowlingutstyr. Han tilbyr rimelige startpakker som inneholder 1 kule, 1 par sko og bag.</p><p><br></p><p>Ønsker du å ta en tur for å prøve, er du hjertelig velkommen til oss på treningsdagene! Send gjerne en epost i forkant.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -3540,7 +3540,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -4269,7 +4269,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -4727,7 +4727,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12812.png",
+              "src": "@PROJECT_PATH@/assets/images/vallo-logo3-square-128x12814.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
